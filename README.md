@@ -1,7 +1,7 @@
 TweetPointNote
 ==============
 
-An HTML5 twitter feed enabled presentation framework.  Uses [reveal.js](http://lab.hakim.se/reveal-js/#/) and Web Dev Door's [Twitter feed authentication (API 1.1) for search](http://www.webdevdoor.com/jquery/twitter-feed-authentication-search/) article.
+An HTML/PHP twitter feed enabled presentation framework.  Uses [reveal.js](http://lab.hakim.se/reveal-js/#/) and Web Dev Door's [Twitter feed authentication (API 1.1) for search](http://www.webdevdoor.com/jquery/twitter-feed-authentication-search/) article.
 
 
 Setup
